@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z2lska8dr-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/z2lska8dr-dotnet-basic
